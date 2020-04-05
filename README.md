@@ -9,5 +9,5 @@ Thanks to [jsdelivr](https://www.jsdelivr.com/).
 https://cdn.jsdelivr.net/gh/riril/i/posts/
 
 # load example avatar
-https://cdn.jsdelivr.net/gh/riril/i/avatar.png
+https://cdn.jsdelivr.net/gh/riril/i/riril.png
 ```
